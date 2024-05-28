@@ -1,2 +1,2 @@
 # Dhandho
-It's an AI platform
+It's project about buissness.
